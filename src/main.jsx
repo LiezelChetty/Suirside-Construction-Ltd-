@@ -7,13 +7,13 @@ import './credentials.css';
 const officialLogo = '/suirside-logo.svg';
 const whiteLogo = '/suirside-logo-white.svg';
 const heroImage = 'https://suirside.com/wp-content/uploads/2021/11/DJI_0062-1-975x700.jpg';
-const fallbackProject = 'https://suirside.com/wp-content/uploads/2021/11/DJI_0062-305x550.jpg';
+const fallbackProject = 'https://suirside.com/wp-content/uploads/2021/11/DJI_0062-1-975x700.jpg';
 
 const projects = [
-  { title: 'Respond Housing – Ferrybank', category: 'Residential', place: 'Waterford', image: 'https://suirside.com/wp-content/uploads/2021/11/DJI_0062-305x550.jpg' },
-  { title: 'Dore Optical', category: 'Commercial', place: 'Ireland', image: 'https://suirside.com/wp-content/uploads/2022/09/DSC01505-305x550.jpg' },
-  { title: 'IDA Waterford', category: 'Commercial', place: 'Waterford', image: 'https://suirside.com/wp-content/uploads/2022/03/r-72-305x550.jpg' },
-  { title: 'Bausch + Lomb — CSA', category: 'Pharmaceutical', place: 'Waterford', image: 'https://suirside.com/wp-content/uploads/2020/08/Bausch-lomb-305x550.jpeg' },
+  { title: 'Respond Housing – Ferrybank', category: 'Residential', place: 'Waterford', image: 'https://suirside.com/wp-content/uploads/2021/11/DJI_0062-1-975x700.jpg' },
+  { title: 'Dore Optical', category: 'Commercial', place: 'Ireland', image: 'https://suirside.com/wp-content/uploads/2022/09/DSC01505.jpg' },
+  { title: 'IDA Waterford', category: 'Commercial', place: 'Waterford', image: 'https://suirside.com/wp-content/uploads/2022/03/r-72.jpg' },
+  { title: 'Bausch + Lomb — CSA', category: 'Pharmaceutical', place: 'Waterford', image: 'https://suirside.com/wp-content/uploads/2020/08/Bausch-lomb.jpeg' },
   { title: 'Walsh Park Redevelopment', category: 'Sport / Leisure', place: 'Waterford', image: 'https://suirside.com/wp-content/uploads/2024/10/Walsh-Park-2.jpg' },
   { title: 'EirGen Pharma', category: 'Pharmaceutical', place: 'Waterford', image: fallbackProject },
 ];
