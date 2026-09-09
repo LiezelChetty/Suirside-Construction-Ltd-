@@ -1,4 +1,5 @@
 import React from 'react';
+import { createRoot } from 'react-dom/client';
 import { ArrowUpRight, BarChart3, Menu, Play, Users, X } from 'lucide-react';
 import './styles.css';
 import './credentials.css';
